@@ -64,7 +64,7 @@ Hey! I'm **Jitu Dey**, a passionate **Web Developer** from Bangladesh. I'm conti
 
 <div align="center">
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=jitudey24&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=4" width="85%"/>
+<img src="./profile/trophy.svg" width="85%" alt="GitHub Trophies"/>
 <br/>
 </div>
 
@@ -92,7 +92,7 @@ Hey! I'm **Jitu Dey**, a passionate **Web Developer** from Bangladesh. I'm conti
 
 <div align="center">
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jitudey24&bg_color=050f05&color=a3e635&line=65a30d&point=f7fee7&area=true&area_color=0f2006&hide_border=true&radius=6" width="98%"/>
+<img src="https://raw.githubusercontent.com/jitudey24/jitudey24/output/contributions.svg" width="98%" alt="GitHub Contribution Graph"/>
 <br/>
 </div>
 
