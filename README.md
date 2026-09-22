@@ -26,14 +26,14 @@
 
 <br/>
 
-Hey! I'm **Jitu Dey**, a passionate **Full Stack Developer** from Bangladesh — currently on an exciting journey of mastering web technologies from the ground up.
+Hey! I'm **Jitu Dey**, a passionate **Web Developer** from Bangladesh. I'm continuously learning and building modern, responsive, and user-friendly web applications.
 
 <br/>
 
-🌱 &nbsp; Learning **HTML5 · CSS3 · JavaScript (DOM)**  
-💬 &nbsp; Talk to me about **web design & layouts**  
-📫 &nbsp; Mail me at **jitudeyet@gmail.com**  
-⚡ &nbsp; *Nothing beats solving a tricky bug!*  
+👨‍💻 &nbsp; **What I Do:** Build modern and responsive web applications with clean, user-friendly interfaces.  
+🚀 &nbsp; **Currently Learning:** React, Next.js, TypeScript, and modern web development.  
+❤️ &nbsp; **What I Like:** Coding, learning new technologies, solving problems, and building real-world projects.  
+🎯 &nbsp; **Future Goal:** Become a professional **Full-Stack Developer** and build scalable real-world applications.  
 
 <br clear="right"/>
 
@@ -44,21 +44,18 @@ Hey! I'm **Jitu Dey**, a passionate **Full Stack Developer** from Bangladesh —
 <div align="center">
 <br/>
 
-![](https://img.shields.io/badge/Currently%20Working%20With-1a2e05?style=for-the-badge&logoColor=a3e635)
+![](https://img.shields.io/badge/Core%20Technologies-1a2e05?style=for-the-badge&logoColor=a3e635)
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript&theme=dark&perline=4"/>
 
 <br/><br/>
 
-![](https://img.shields.io/badge/Coming%20Up%20Next-0f1f03?style=for-the-badge&logoColor=84cc16)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,git,github&theme=dark&perline=5"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark&perline=3"/>
-
-<br/><br/>
 </div>
 
 ---
