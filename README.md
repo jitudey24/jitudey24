@@ -10,7 +10,7 @@
 &nbsp;·&nbsp;
 [![Gmail](https://img.shields.io/badge/jitudeyet%40gmail.com-1a2e05?style=flat-square&logo=gmail&logoColor=a3e635)](mailto:jitudeyet@gmail.com)
 &nbsp;·&nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-1a2e05?style=flat-square&logo=facebook&logoColor=a3e635)](https://fb.com/জিতু-দে)
+[![Facebook](https://img.shields.io/badge/Facebook-1a2e05?style=flat-square&logo=facebook&logoColor=a3e635)]([https://fb.com/জিতু-দ](https://www.facebook.com/prince.jitu.376695)ে)
 &nbsp;·&nbsp;
 [![Instagram](https://img.shields.io/badge/jitto__dey-1a2e05?style=flat-square&logo=instagram&logoColor=a3e635)](https://instagram.com/jitto_dey)
 
